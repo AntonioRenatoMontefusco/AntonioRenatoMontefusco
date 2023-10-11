@@ -72,7 +72,7 @@
       <a href="mailto:antoniorenatomontefusco@gmail.com" >
       <img align="center" alt="Antonio Renato Montefusco | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
       </a> &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/antonio-renato-montefusco-8724b8167/" >
+      <a href="https://www.linkedin.com/in/antonio-renato-montefusco/" >
       <img align="center" alt="Antonio Renato Montefusco | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
       </a> &nbsp;&nbsp;
       <br>
